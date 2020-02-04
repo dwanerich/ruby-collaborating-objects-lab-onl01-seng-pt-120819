@@ -43,9 +43,6 @@ class Artist
   def self.create_by_name(name)
       self.new(name)
   end
-
-
-
 end
 
 # binding.pry
